@@ -6,8 +6,6 @@
 
 # Hola, soy Gerardo Steven Quintanilla Lopez 👋
 
-<img src="https://github.com/TU_USUARIO.png" width="120" style="border-radius:50%;" alt="Foto de perfil"/>
-
 ### Full-Stack Developer 🚀
 
 *Desarrollador con **3 años de experiencia** construyendo apps web y móviles.*
