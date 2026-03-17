@@ -23,8 +23,7 @@ const gerardo = {
   ubicacion:   "El Salvador 🇸🇻",
   experiencia:  3 + " años de desarrollo",
   enfoque:     ["Web", "Mobile", "Backend"],
-  aprendiendo: "siempre algo nuevo 🚀",
-  // disponible para proyectos universitarios y personales
+  aprendiendo: "siempre algo nuevo",
 };
 ```
 
@@ -52,17 +51,7 @@ const gerardo = {
 
 ---
 
-## 📊 Estadísticas de GitHub
 
-<div align="center">
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🎓 Información
 
@@ -74,7 +63,5 @@ const gerardo = {
 <div align="center">
 
 *"El mejor código es el que soluciona problemas reales."*
-
-![Visitas](https://komarev.com/ghpvc/?username=TU_USUARIO&color=7F77DD&style=flat-square&label=Visitas+al+perfil)
 
 </div>
